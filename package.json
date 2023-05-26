@@ -1,0 +1,14 @@
+{
+  "name": "cy",
+  "version": "1.0.0",
+  "description": "This is a practices repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Israel B",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
