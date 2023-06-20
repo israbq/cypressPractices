@@ -4,7 +4,7 @@
   "description": "This is a practices repository",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "cy:open": "cypress open --e2e --browser electron"
   },
   "author": "Israel B",
   "license": "ISC",
