@@ -42,7 +42,7 @@ Para este proyecto, se está usando Cypress, el cual es un framework que tiene c
 <!-- CONTACT -->
 ## Contacto
 
-Israel Bibiano - [https://www.linkedin.com/in/israelbq/](https://www.linkedin.com/in/israelbq/) - israel.bibiano92@gmail.com
+Israel Bibiano - [https://www.linkedin.com/in/israelbq/](LinkedIn) - israel.bibiano92@gmail.com
 
 Project Link: [https://github.com/israbq](https://github.com/israbq)
 
