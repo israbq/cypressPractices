@@ -33,11 +33,7 @@ Mientras más vaya avanzando el proyecto, iré creando más casos de prueba, par
 
 Para este proyecto, se está usando Cypress, el cual es un framework que tiene como base JavaScript de lenguaje para poder correr pruebas automatizadas.
 
-* [![Angular][Angular.io]][Angular-url]
-
-
-* [![Cypress][cypress.io]][Cypress-url]
-* [![React][React.js]][React-url]
+* Cypress Framework
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -45,9 +41,9 @@ Para este proyecto, se está usando Cypress, el cual es un framework que tiene c
 <!-- CONTACT -->
 ## Contacto
 
-Israel Bibiano - [https://www.linkedin.com/in/israelbq/](LinkedIn) - israel.bibiano92@gmail.com
+Israel Bibiano - [LinkedIn](https://www.linkedin.com/in/israelbq/) - israel.bibiano92@gmail.com
 
-Project Link: [https://github.com/israbq](https://github.com/israbq)
+Project Link: [GitHub](https://github.com/israbq)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
