@@ -33,7 +33,7 @@ Mientras más vaya avanzando el proyecto, iré creando más casos de prueba, par
 
 Para este proyecto, se está usando Cypress, el cual es un framework que tiene como base JavaScript de lenguaje para poder correr pruebas automatizadas.
 
-* <b>Cypress Framework</b>
+* [<b>Cypress Framework</b>](cypress.io)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
